@@ -1,6 +1,6 @@
-// tjl - add T460 identifier
+// tjl - add T560 identifier
 
-DefinitionBlock ("", "SSDT", 2, "PS2K", "T460", 0)
+DefinitionBlock ("", "SSDT", 2, "PS2K", "T560", 0)
 {
     External(\_SB.PCI0, DeviceObj)
     External(\_SB.PCI0.LPC, DeviceObj)
@@ -15,7 +15,7 @@ DefinitionBlock ("", "SSDT", 2, "PS2K", "T460", 0)
             Return (Package()
             {
                 "RM,oem-id", "LENOVO",
-                "RM,oem-table-id", "T460",
+                "RM,oem-table-id", "T560",
             })
         }
     }

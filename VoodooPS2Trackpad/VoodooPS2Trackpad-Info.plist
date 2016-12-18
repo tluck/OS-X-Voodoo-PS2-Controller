@@ -441,6 +441,8 @@
 					<string>TrackPad</string>
 					<key>T460</key>
 					<string>ClickPad</string>
+					<key>T560</key>
+					<string>ClickPad</string>
 					<key>TrackPad</key>
 					<dict>
 						<key>DivisorX</key>
