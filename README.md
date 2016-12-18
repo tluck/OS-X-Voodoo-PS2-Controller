@@ -1,10 +1,8 @@
 ## This repo is a fork of Tlucks fork of VoodooPS2Controller by RehabMan
 
 ## The MOD is just for the T560 and similar to TLucks Repo for the T460
-The T560 modifications will be done to have a good Touchpad, Trackpad experience.
-Beside that, the Special Keys will work properly.
-
-As i said it WILL be. I havent changed anything yet.
+A T560 section for the keyboardfunction has been implemented.
+To be honest, you will also be able to work with TLucks version. It will work properly too, just the NAME of the computer will be T460 and some minor changes have been done on my side. Its possible that the changes will go to Tluck in near future too. Lets see.
 
 ### Current Build Environment
 
