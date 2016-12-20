@@ -1,8 +1,8 @@
-## This repo is a fork of VoodooPS2Controller by RehabMan
+## This repo is a fork of Tlucks fork of VoodooPS2Controller by RehabMan
 
-## The mods are specific to the Lenovo T420 and Lenovo T460 ThinkPad models
-The T420 and T460 mods have settings in various Info.plist files 
-The T460 mods are code changes to support the new ClickPad as well as the 3 physical buttons
+## The MOD is just for the T560 and similar to TLucks Repo for the T460
+A T560 section for the keyboardfunction has been implemented.
+To be honest, you will also be able to work with TLucks version. It will work properly too, just the NAME of the computer will be T460 and some minor changes have been done on my side. Its possible that the changes will go to Tluck in near future too. Lets see.
 
 ### Current Build Environment
 
