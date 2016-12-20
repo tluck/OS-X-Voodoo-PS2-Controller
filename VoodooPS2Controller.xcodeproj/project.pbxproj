@@ -45,7 +45,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8372BD351DFA4DEE00D39115 /* SSDT-PS2K-T460.dsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SSDT-PS2K-T460.dsl"; sourceTree = "<group>"; };
+		8372BD351DFA4DEE00D39115 /* SSDT-PS2K-T560.dsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SSDT-PS2K-T560.dsl"; sourceTree = "<group>"; };
 		8404565C161E3AAF00D74D7F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8404565F161E3AC300D74D7F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		84045662161E3AD800D74D7F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -182,7 +182,7 @@
 				844952F1169A2696003DA49F /* makefile */,
 				ED7E45DF1CFB35EE00ED2FB8 /* SSDT-Enable_DynamicEWMode.dsl */,
 				ED7E45E01CFB35EE00ED2FB8 /* SSDT-Disable_DynamicEWMode.dsl */,
-				8372BD351DFA4DEE00D39115 /* SSDT-PS2K-T460.dsl */,
+				8372BD351DFA4DEE00D39115 /* SSDT-PS2K-T560.dsl */,
 				84833FC0161B636900845294 /* Common */,
 				84167818161B55B2002C60E6 /* VoodooPS2Controller */,
 				8416782E161B5613002C60E6 /* VoodooPS2Keyboard */,

@@ -638,9 +638,6 @@
 						<array>
 							<string>e038=3a</string>
 							<string>e001d=3b</string>
-							<string>6b=81</string>
-							<string>e00a=a0</string>
-							<string>e009=83</string>
 						</array>
 						<key>SleepPressTime</key>
 						<integer>1500</integer>
